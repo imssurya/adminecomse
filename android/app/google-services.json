@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "340807103564",
+    "firebase_url": "https://blocapp-75459-default-rtdb.firebaseio.com",
+    "project_id": "blocapp-75459",
+    "storage_bucket": "blocapp-75459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340807103564:android:f1ae00068bc5811898f0e9",
+        "android_client_info": {
+          "package_name": "com.example.adminecomse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340807103564-qspom1uau7l4eucd6h4ffdptlrmilvls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHEIfQzCy0_gT_EDZRUF57vAyGW2w2sOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340807103564-qspom1uau7l4eucd6h4ffdptlrmilvls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340807103564:android:e8ad8640c258b1b698f0e9",
+        "android_client_info": {
+          "package_name": "com.example.blocapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340807103564-qspom1uau7l4eucd6h4ffdptlrmilvls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHEIfQzCy0_gT_EDZRUF57vAyGW2w2sOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340807103564-qspom1uau7l4eucd6h4ffdptlrmilvls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
